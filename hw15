@@ -1,0 +1,8 @@
+d = {50: 910, 7: 70, 65: 30, 35: 400, 65: 50, 21: 110}
+def is_key_present(x):
+  if x in d:
+      print('Key is present in the dictionary')
+  else:
+      print('Key is not present in the dictionary')
+is_key_present(7)
+is_key_present(90)

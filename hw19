@@ -1,0 +1,3 @@
+my_set={'ram','shyam','hari'}
+print(my_set)
+

@@ -1,0 +1,8 @@
+tuple1=('ram','hari','shyam','rita')
+print(tuple1)
+list1=list(tuple1)
+print(list1)
+list1.insert(2,'rabindra')
+print('changed list',list1)
+tuple2=tuple(list1)
+print('adding new name in tuple',tuple2)

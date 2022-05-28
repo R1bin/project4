@@ -1,0 +1,4 @@
+tuple1=('ram','shyam','mohan')
+list1=list(tuple1)
+print(list1)
+
